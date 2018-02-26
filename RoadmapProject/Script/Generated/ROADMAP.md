@@ -8,7 +8,7 @@ Tapping on a link will take you to relevant materials.
             - [x] First pet project ideas
         - [ ] `Languages`
             - [ ] [`Objective-C`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/RESOURCES.md)
-                - [ ] `Blocks`
+                - [x] `Blocks`
                     - [ ] Memory Management
                 - [ ] KVC
                 - [ ] KVO
