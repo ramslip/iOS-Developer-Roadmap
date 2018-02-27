@@ -10,7 +10,7 @@ Tapping on a link will take you to relevant materials.
             - [ ] [`Objective-C`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/RESOURCES.md)
                 - [x] `Blocks`
                     - [x] Memory Management
-                - [ ] KVC
+                - [x] KVC
                 - [ ] KVO
                 - [ ] Toll-free bridging
                 - [ ] `Runtime`
