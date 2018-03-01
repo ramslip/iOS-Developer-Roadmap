@@ -16,7 +16,7 @@ Tapping on a link will take you to relevant materials.
                 - [ ] `Runtime`
                     - [ ] Method messaging
                     - [ ] NSZombies and KVO implementation
-                    - [ ] [Swizzling](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/Swizzling/RESOURCES.md)
+                    - [x] [Swizzling](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/Runtime/Swizzling/RESOURCES.md)
             - [ ] [`Swift`](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/RESOURCES.md)
                 - [ ] Closures
                 - [ ] `Initializers`
