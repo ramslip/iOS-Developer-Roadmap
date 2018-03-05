@@ -12,7 +12,7 @@ Tapping on a link will take you to relevant materials.
                     - [x] Memory Management
                 - [x] KVC
                 - [ ] KVO
-                - [ ] Toll-free bridging
+                - [x] Toll-free bridging
                 - [ ] `Runtime`
                     - [ ] Method messaging
                     - [ ] NSZombies and KVO implementation
