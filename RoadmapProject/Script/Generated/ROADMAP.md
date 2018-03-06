@@ -33,7 +33,7 @@ Tapping on a link will take you to relevant materials.
             - [x] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
                 - [x] weak references
             - [x] `Retain cycles`
-            - [ ] Garbage collector
+            - [x] Garbage collector
             - [ ] `Memory leaks`
             - [ ] Shallow and deep copying
             - [ ] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
