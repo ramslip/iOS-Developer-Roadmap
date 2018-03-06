@@ -32,7 +32,7 @@ Tapping on a link will take you to relevant materials.
             - [x] [MRC](Resources/iOS_Developer/Practical_knowledge/Memory_management/MRC/RESOURCES.md)
             - [x] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
                 - [x] weak references
-            - [ ] `Retain cycles`
+            - [x] `Retain cycles`
             - [ ] Garbage collector
             - [ ] `Memory leaks`
             - [ ] Shallow and deep copying
