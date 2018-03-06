@@ -30,8 +30,8 @@ Tapping on a link will take you to relevant materials.
             - [x] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
             - [x] `Value vs Reference type`
             - [x] [MRC](Resources/iOS_Developer/Practical_knowledge/Memory_management/MRC/RESOURCES.md)
-            - [ ] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
-                - [ ] weak references
+            - [x] [`ARC`](Resources/iOS_Developer/Practical_knowledge/Memory_management/ARC/RESOURCES.md)
+                - [x] weak references
             - [ ] `Retain cycles`
             - [ ] Garbage collector
             - [ ] `Memory leaks`
