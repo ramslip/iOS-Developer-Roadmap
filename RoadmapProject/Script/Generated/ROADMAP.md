@@ -26,7 +26,7 @@ Tapping on a link will take you to relevant materials.
                 - [ ] `Enums`
                 - [ ] Runtime
                     - [ ] [Method dispatch](Resources/iOS_Developer/Practical_knowledge/Languages/Swift/Runtime/Method_dispatch/RESOURCES.md)
-        - [ ] `Memory management`
+        - [x] `Memory management`
             - [x] [`Stack and Heap`](Resources/iOS_Developer/Practical_knowledge/Memory_management/Stack_and_Heap/RESOURCES.md)
             - [x] `Value vs Reference type`
             - [x] [MRC](Resources/iOS_Developer/Practical_knowledge/Memory_management/MRC/RESOURCES.md)
@@ -36,7 +36,7 @@ Tapping on a link will take you to relevant materials.
             - [x] Garbage collector
             - [x] `Memory leaks`
             - [x] Shallow and deep copying
-            - [ ] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
+            - [x] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
         - [ ] `Multithreading and concurency`
             - [ ] POSIX threads
             - [ ] NSThreads
