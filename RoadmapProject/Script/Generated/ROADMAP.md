@@ -34,7 +34,7 @@ Tapping on a link will take you to relevant materials.
                 - [x] weak references
             - [x] `Retain cycles`
             - [x] Garbage collector
-            - [ ] `Memory leaks`
+            - [x] `Memory leaks`
             - [ ] Shallow and deep copying
             - [ ] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
         - [ ] `Multithreading and concurency`
