@@ -35,7 +35,7 @@ Tapping on a link will take you to relevant materials.
             - [x] `Retain cycles`
             - [x] Garbage collector
             - [x] `Memory leaks`
-            - [ ] Shallow and deep copying
+            - [x] Shallow and deep copying
             - [ ] [Autorelease pool](Resources/iOS_Developer/Practical_knowledge/Memory_management/Autorelease_pool/RESOURCES.md)
         - [ ] `Multithreading and concurency`
             - [ ] POSIX threads
